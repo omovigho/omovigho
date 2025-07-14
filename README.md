@@ -39,7 +39,7 @@ Streamlit app that generates and narrates AI-powered stories using OpenAI and El
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/daniel-agofure-7aba76225)
-- 📩 omovigho[at](danagofure330@gmail.com)
+- 📩 omovigho [at](danagofure330@gmail.com)
 
 ---
 
