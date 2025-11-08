@@ -3,10 +3,11 @@
 I'm a passionate **Backend Developer** and **AI Engineer** with strong experience in building scalable APIs, real-time systems, and AI-powered tools. I specialize in:
 
 - 🧠 **AI & ML**: Chatbots, Generative AI (OpenAI), Text-to-Speech (ElevenLabs)
-- ⚙️ **Backend Development**: `.NET`, `FastAPI`, `Django`, `Flask`, `Node.js`
+- ⚙️ **Backend Development**: `FastAPI`, `Django`, `Flask`, `Node.js`
 - 🌐 **Web Technologies**: `JavaScript`, `HTML`, `CSS`
 - ☁️ **Cloud & DevOps**: `AWS`, `CI/CD`, GitHub Actions
 - 🔒 **Security & APIs**: Authentication, Authorization, RESTful API design
+- **AI Agent Frameworks**: CrewAI, Google ADK, n8n 
 
 ---
 
