@@ -7,7 +7,7 @@ I'm a passionate **Backend Developer** and **AI Engineer** with strong experienc
 - 🌐 **Web Technologies**: `JavaScript`, `HTML`, `CSS`
 - ☁️ **Cloud & DevOps**: `AWS`, `CI/CD`, GitHub Actions
 - 🔒 **Security & APIs**: Authentication, Authorization, RESTful API design
-- **AI Agent Frameworks**: CrewAI, Google ADK, n8n 
+- **AI Agent Frameworks**: `CrewAI`, `Google ADK`, `n8n` 
 
 ---
 
