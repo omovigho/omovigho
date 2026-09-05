@@ -13,6 +13,18 @@ I'm a passionate **Backend Developer** and **AI Engineer** with strong experienc
 
 ## 🚀 Highlight Projects
 
+ ### 🧭 ChromaGuide: Browser-Native AI Agent
+  An intelligent Chrome extension powered by Gemini and Google ADK 2.0      
+  that acts as a real-time copilot to visually guide users and autonomously   
+  execute complex web tasks.
+    - **Autonomous Execution:** Plans and safely navigates multi-step
+  workflows and form-filling
+    - **Voice-Enabled:** Bidirectional voice interaction synced with live     
+  DOM highlighting
+    - **Secure Architecture:** Built with React, FastAPI, WebSockets, and a   
+  robust safety policy engine
+    [View Project](https://github.com/omovigho/chromaguide)
+
 ### 🖥️ Real-Time Windows Data Usage Tracker
 A Python-based Windows tool to track internet data usage in real-time.  
 - Real-time monitoring with Wi-Fi control  
