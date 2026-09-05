@@ -23,7 +23,9 @@ workflows and form-filling
 DOM highlighting
 - **Secure Architecture:** Built with React, FastAPI, WebSockets, and a   
 robust safety policy engine
-[View Project](https://github.com/omovigho/chromaguide)
+[ 🔗 View Project](https://github.com/omovigho/chromaguide)
+
+---
 
 ### 🖥️ Real-Time Windows Data Usage Tracker
 A Python-based Windows tool to track internet data usage in real-time.  
